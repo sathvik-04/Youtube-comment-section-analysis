@@ -1,0 +1,1260 @@
+Username,Comment,vader_sentiment
+@FaradayAcademy,"Hey everyone, thanks for watching 
+If you want to support my work, I wrote a book on learning to code: https://amzn.to/3a911Rk (US) and https://books2read.com/u/4DgO8D (worldwide)",1
+@hassansyed6087,"Gotta love humans who just give thousands of dollars of knowledge for absolutely free.
+What a wonderful individual 
+Thanks for this",1
+@panamafred1,"When you said CD = Change Directory, I went into a time warp. I bought my first PC in 1984. It had a massive 10 meg hard drive! I knew absolutely nothing about computers. Didn't even know anyone who had one. The computer came with a thick three-ring binder with the title, DOS. I read and reread and reread the entire book until it started to make sense. (The first version of Windows didn't come out until 1985.) In 1985, I bought an early copy of Symantec's Q&A, a (non-Windows) word processor, flat file, and report generator, which relied heavily on keystroke combinations to get things done but was hinting at a graphical interface. I ran a non-profit for many years with Q&A and loved it, such an improvement from WordStar. So, now at 72-years-old, to see CD = Change Directory, I say to myself, ""Hey, I can do this."" Thanks for a good tutorial.",1
+@WendyLiChinLim,"Gwen articulated this topic so well and was able to break it down into simple terms for a newbie like me. She also explained everything very clearly, showcasing her intelligence in simplifying complicated concepts with ease. I am very grateful to have stumbled upon this video.",1
+@siriusvatsa,"TimeLine
+1:10 What is git
+1:30 What is version control
+2:10 Terms to be learn in video
+ Git commands
+ sign up in github
+ using git in local machine
+ git install
+ getting code editor
+ inside vsCode
+ cloning through vsCOde
+ git commit command
+ git add command
+ commiting
+ git push command
+ SSH Keys
+ git push
+ Review  workflow so far
+ Compare between github workflow and local git workflow
+ git branching
+ Have fun is not allowed
+ Forking in git
+ Ending",1
+@fabriciosaavedra3795,"I don't usually leave comments for tutorials, but let me say, this one fit like a glove to my newbie needs. Thanks a lot!",1
+@anuvapandya8287,"Whole course was broken down into heading and sub-headings, spending time on important ones and you made sure the basics were clear to the students, viewers or learners like me. Thank You Gwen.",1
+@illhaveawtrplz,"What an amazing explanation, thank you so much for being so clear and concise!
+
+A tip for new learners like myself: This video is slightly dated. GitHub now refers to the primary branch as ""main"" and not ""master"". If you try to run these commands exactly like Gwen in the video, you'll run into errors. Remember: main ️ master ",1
+@unknownuser6577,"This tutorial is probably the best github tutorial any beginner online could make use of. The lecture was succinct and it passed the desired information to the viewers, not having to make things overly complicated, she explains it so well.",1
+@mohammadfallah.rasoulnejad5379,she is the most fluent instructor that answered all my questions while i was watching... imma go to her channel and subscribe rn.,1
+@MegaRomza,"At some point I thought I was dumb for not gasping the concept of git and GitHub because I’ve watched over 5 courses which were paid but I was getting even more frustrated. But here you are making it all clear, now I have the ahaaaaaaaaa moment. I’m in love with your teaching methods, they make sense to me and now I can rewatch those other courses. Thank you very much!!!",1
+@obotandino2941,4 years after and this is still insightful. Thank you so much.,1
+@josemgarlla74,"Really love this git and github intro course, it really touches a lot of things.
+1. How to create a repo locally through the CLI(Command Line Interface) or directly from GITHUB
+2. git flow by using the most common commands: git add - git commit and git push/git pull, all of them with their corresponding explanation. What ""origin"", ""remote"" and ""master"" mean.
+3. git branching: all the commands involve in that kind of operation as well as best practices.
+4. git merging: when we use a ""feature"" branch and it's time to merge to the ""master"" branch  -- PR (Pull Request) on the Github side
+5. How to deal with ""conflicts"" when merging.
+6. Undoing in git: undoing from the stage area versus undoing if we have committed once or several times.
+7. Understanding how and why we fork a repo on github.
+
+
+Really awesome content, thank a lot for such a valuable content.",1
+@adraintokyo7994,"This is an excellent, detailed tutorial for Git and GitHub.  It’s long, but easy to follow, not least because there is no distracting music, no annoying jingles or graphics and perhaps most helpful, the narration is measured and carefully modulated ... you quickly feel at home with the delivery, from someone who really knows their subject material.",1
+@kaitoti,"Thank you, 
+Maybe some suggestions, 
+ - add the changes of github defaulting to ""main"" instead of master and the configs on it.
+ - Setting up SSH keys(20:30) first must be earlier than the cloning through VS Code(14:30), so we can follow along",1
+@jmdavaul,"This was much better than I expected it to be.  Very ""no fluff,"" clear, and bite sized.   You can find these topics in many places (youtube, udemy, skillshare, etc) but most instructors can't seem to explain these topics  plainly.   You did exactly that, nice job.  You covered the core concepts of branching, merging, PR's, conflict resolutions, and undoing changes in very easy to follow and digestible steps ",1
+@AbdulRahman-n1g,"Here are git commands to remember:-
+1. git status
+2. git add .(for all) / git add <filename>
+3. git commit -m ""message""
+4. git commit -am ""message""
+5. git push
+6. git push -u origin <branchname>
+7. git pull
+8. git branch
+9. git branch -d
+10. git checkout -b <new_branchname>
+11. git checkout branchname
+12. git reset
+13. git reset <filename>
+14. git reset -HEAD
+15. git reset -HEAD~1 (OR) git reset -HEAD~2 and so on...
+16. git reset -hard <commit_code>",1
+@vishakarudhra8665,"For beginners like me, who might be feeling lost with commands not working in the VS code terminal, all these commands will work on Git Bash since it can interpret all UNIX commands and git ones, on the top of it, it will track the edits you separately perform on VS code. So feel free and just git bash through this course.",1
+@_AnikSaha,"At 21:43, One important note:: If you choose a new name instead of automatically generated location, you have to use that location name when adding configuration code to the [~/.ssh/config] file. Nice tutorial. Thank you.",1
+@vigneshwarselva9276,"i'm a non native speaker of english, what i loved a lot here is your slow n steady way of illustrations, was a nice video .. thanks u so  much",1
+@GTFreeFlyer,I finally understand Git after this video.  I’ve asked so many questions to friends and watched several “quick” YouTube tutorials and was still confused about Git.  Your tutorial was excellent and I’m glad I sat through the whole hour of it.  It was completely worth my time.  Thanks!,1
+@manelariapala7852,The first ever instructor that actually explains the meaning of each jargon! Thanks @Faraday Academy!,1
+@DefnitelyNotFred,"Absolute masterpiece of a Tutorial. I'm an electrical engineer working as a Data Analyst with Energy Data. I'm trying to shore up my programming credentials as a Data Scientist because I'm trying to change jobs and have failed a lot of interviews for not having enough knowledge on Git, so this guide is very welcome :D",1
+@GreatBibleStudies,"Gwen, your video is great! I love how everything is broken down into bite-size chunks. You have a wonderful gift of teaching. You've helped this beginner get closer to becoming a competent user of Git & GitHub.",1
+@SiddharthMathur2k007,The most complete tutorial for beginners I have seen on YouTube so far! Thanks a lot!,1
+@doniyorallabergenov7970,"Took me 5 days to completely learn your 1hour course but I repeated it over and over until I completely got it! Very useful, no nonsense and easy to understand. The only thing is, I think the location of SSH keys in the video got changed and placed after 'commit' and 'push' but it is necessary to set up before those steps. Took me a minute to figure that out. Thank you so much!",1
+@joseortiz_io,Version control is definitely a crucial tool for developing software. Thank you for the education! ️,1
+@guitarman813,This so far is the best (free) course that I've seen on Git and GitHub. Bravo Gwen!,1
+@cosmo_gon,"Gwen has such a clear and pleasant voice and a perfect diction! Likewise, she has a very good teaching skills. Thanks, Gwen!",1
+@oldlorenz9567,"I 've watched a lot of Git tutorials, and this is for sure the best I've ever seen. Thanks !",1
+@mikeantonin7580,"This was a highly comprehensive and helpful Git tutorial. It was definitely worth the full hour because unlike other shorter tutorials, it covered everything extensively (with appropriate examples too) thus helping me to properly understand the basic concepts and operations of Git as well as use cases, Thank you very much!",1
+@ojeleyeopeyemi656,"This will go down in history as the best Git and GitHub course for beginners! Even if one is a dummy, one will still get. Kudos.",1
+@whoismikeyuk,"This has to be the best introduction to git and GitHub I have seen to date (yes, I have tried watching a number of videos). Easy to follow and clearly explained. Finally understanding ""git push origin main"" (changed from master) was my favourite part. Thank you.",1
+@sakthipro_YT,"Extremely useful, sharing a fewthings..
+For latest Windows client on VScode,
+
+1. Cloning via ssh doesn't work but via https does.
+
+2. On Key generation, SSH for rsa doesn't work, but the new syntax & algorithm ed25519 published in Github help page works.
+
+3. Same for starting & config ssh agent, the github help page commands worked.
+
+Thanks a lot for this video.",1
+@sauravroy3420,Really like that you took the time to explain each concept in detail for a beginner like me,1
+@bernardbakala9241,I learned more that I expected. Thanks a million for such a complete course.,1
+@kirtperez9938,Y’all are amazing! Pumping out this much needed content especially during these times.,1
+@saurabhbhardwaj7951,"I have been making mindless commits and PRs without realizing what they actually meant. This course fills so many gaps and answers most of my question regarding why we do a certain thing in Git.
+Thanks a Lot!!",1
+@abdulhannan288,"This is exactly what a beginner would need ..
+a great course covered in so timely manner",1
+@CSharpProdigy,"This is top notch I must say. I rarely give comments, but by default I'm doing so now..",1
+@briankaboyi-j1e,"As a beginner, I've understood a lot about git and GitHub that I was struggling with just by following along with this video. Thanks You",1
+@user-di4js6xw9n,"absolutely loved this video! as someone who was absolutely in the dark about how to use git and github, this crashcourse most definitely provided me with all the necessary information a beginner would need! thank you! :)",1
+@mattmovesmountains1443,"So helpful and well-explained. As a new coder, I'm in near disbelief that this is the setup process for what seems to be the tool used by every professional coder. That said I'm even more thankful you explained it so well.",1
+@alexandergracilla1394,This video has better sound quality than the ad that came before,1
+@faraza5161,This was definitely one of the best git tutorials I have ever come across. Big Thanks Gwen!!!,1
+@piyushdongre325,This has taught me all i needed to know about git which i was delaying for a long time. Thank you :),1
+@icono__7136,"I feel so relived; I'm finally learning this darn thing! Thank you for the tutorial. Thank you for taking the time to do this Gwen!
+
+Edit: Upon reviewing the tutorial again, I'd like to say:
+
+1. When creating a tutorial, you guys should  understand the importance of slowing down to the pace of the learner. In the beginning you walk us through a nice set of key terms (which was exceptional), then start mixing lots of advanced and beginner-level concepts together in your explanations, confusing the person that's watching the video. Slow down, explain like we're 5, that's why we're here.
+
+2. To expand upon the issue of mixing things up I mentioned above, it's okay to keep a tutorial short, and add footnotes later if you think that the advanced concepts you're touching on are still worth being aware of. That way, the beginner can truly focus their attention on the basics, and then access the footnote only when they feel comfortable with the knowledge they've acquired thus far, making the content of your footnotes even more effective. After all, isn't good programming about being efficient? 
+
+I used to get annoyed at being expected to take additional English classes as a Computer Science student, but now I understand why. I spent 4 hours yesterday debugging a Terminal issue, only to later realize that there was an ""issue"" because the person who created the how-to GitHub document instructed the reader to paste this code into the Terminal command line: 
+
+
+
+They said to  this command in the terminal (meaning: include the quotation marks). After 4 hours of learning about chmod, File Links, Groups, root directory, Inodes—things I knew NOTHING about prior to this, I resolved my problem by simply removing the quotation marks. 
+
+Now, the arrogant developer might say, ""Well that's obvious"". No it's not! The person said ""paste"", meaning I would: 
+
+- Select the piece of code
+- Apply ctrl+c to it, for Windows (cmd+c on Mac)
+- Go to the Terminal and apply ctrl+v/cmd+v
+
+Either the tutorial should have been made like this: 
+
+ ,  
+
+or the person writing the document should I mentioned that the quotation marks need to be removed. 
+
+As Software Engineering becomes more collaborative, programmers can no longer get away with being asocial, and communication impaired, so this is an area a lot more engineers need to start being proficient in .",1
+@CassCodeIt,"So as a self taught developer this has not been my first time looking into Git, but this the first time commands lines were explained even better which is good. 
+
+Most places I would only get commands and work from there not knowing how to and when to use them.
+
+Gwen here, did a great job explaining and sharing the common usage and howwhen to. I am now confident to continue working and learning git.
+Thanks greate content.",1
+@samuraijack5919,"When I get my job in web development, you can be sure that I'm coming back to help you guys out.",1
+@rerere7702,I'm literally five minutes in and I can already tell that you put great detail into this video. Keep up the great work!,1
+@jinyoungchoi3443,This video is amazing! I failed to understand Github for several years until I came across this video. Thanks!,1
+@tjex,"21:34 - you need to type in the full file path with the desired file name at the end. eg. /Users/tillman/.ssh/[insert desired file name]
+Otherwise it just ends up in the root of the Home folder. Just so people know. Could cause confusion.",1
+@VishalGupta-xw2rp,You People are like a Blessing... Like Water in Dessert... You People are too Good for us. May the Force be with you️🇮🇳,1
+@JIHYELEE-h2m,I'm not native speaker of English. So I really appreciate your speed of speaking. Thanks a lot!,1
+@alanmurray4011,Thanks Gwen. This is the best beginner tutorial I have come across for Git and GitHub. What makes it the best is that you don't assume that any bit of information is too trivial or unimportant to mention. I feel a lot more comfortable on the topic now. Thanks again!,1
+@Kawaremu,I really learnt many things out of this video and I'm finally able to dive into version controls softwaare yeeeea!,1
+@criscrawford4615,"Thanks - I forgot everything ""git"" in the last year and relearned it all plus more after watching this one hour video.",1
+@ei_acc,"If you're a new to web development this is very important, precisely what I was looking for. thanks for this amazing content",1
+@bkatsevych,Probably the best Git and GitHub crash course newcomers can have. Thanks a lot for a perfectly done job!,1
+@SuperLm21,"The way you are explaining your voice timming is just perfect to go along . I´m confident using Git now and it´s no longer a monster , off course it needs practice . Thanks from Portugal!",1
+@user-vq5gv1vg3w,"You did an amazing job, I don't collaborate on any projects and just used git for tracking changes over time, making my github page look busy, and project copypasta. But this reminded me how immensely useful git is; built a reference guide around your video Thank you!",1
+@thecalgarians4597,"It's the best Git / Github tutorial out there and that too at no cost to the learner.
+Amazingly explained all important and, I believe, the most commonly used git commands / Github operations in such an easy to understand manner.
+I feel so confident now in using git/github from earlier being a Zero in this space.
+I'd spcially acknowledge the slow pace of Gwen's speaking while explaining all these concepts.
+Wonderful job done, Gwen.
+Thank a ton!!!!!",1
+@tradewithaakash2939,5 min into the video and i already know that this is the correct video to understand git and git-hub.,1
+@MS-wv8nk,"Gwen, your tutorial is absolutely excellent! I am so grateful for IT pros like you! You are very clear, thorough, detailed. I've always wanted to better understand Git & Github and I believe you are my answer to learn how to make use of these great tools. It's SO nice to have a non-judgmental pro who makes sense and doesn't teach as if most of us out here already know what the tool does and how we can benefit from it. Hopefully I can teach my friends in time. I've just become your newest subscriber, so many thanks and please keep up the excellent teaching. I'm excited and now engaged...I've just got to make time to learn it and learn it well.
+
+Much respect.
+ - MS!",1
+@charlesagyei9200,The best Git tutorial I’ve ever had. Straight to the point and clear explanations to the important features. Thank you so much,1
+@bahador924,by far this was the best course on GitHub I have ever seen.,1
+@EricTighten,"Just to make it clear, if you don't have your ssh set up yet, you won't be able to clone the repo to your local machine, which is at around 15:05 of this tutorial",1
+@brickviking667,"Thank you for this course, it seems to be a great refresher. My only comment about the content is that at least at my end, the audio is really quiet in comparison to a lot of the other videos I look at. I'm not sure if this is deliberate.",1
+@prabhatkumarsingh5728,"You guys are awesome, I was waiting for this video and here it is only in few days ",1
+@bkahumuza,Thanks Gwen for one of the most clear explanations I have had in life. Was lost till I found this Video. Thanks!,1
+@theshilpitube,"Thank you very much! I learned a lot! I wish you'd add a git log after the last git reset that you did... but it's okay, I can always recreate the project and see how it looks. Thank you again for this tutorial! You are a good teacher!",1
+@aldrinseanpereira140,"When first opening the terminal in VS Code,  on the terminal bar just change from ""powershell"" to ""Git Bash"" and then follow along",1
+@chahalamit,Best Github Tutorial so far! Hands down. Couldnt appreciate more that how she has considered detailing the tiniest of things about git and github.,1
+@iMiike69,"Much appreciated Gwen! This is one step on my long journey into programming, this was all very useful.",1
+@enriquelmx,"at 16:57 the equivalent Powershell command to ""la"" or ""ls -la"" commands may be ""ls -force"" or ""Get-ChildItem -Force"". The ""ls"" command in Powershell is a Get-ChildItem alias.
+Edit: guys I found this command really useful to see all the commits in different branches more visual-friendly: git log --graph  , you can add --oneline to display the info more summarized.",1
+@rayfagalde423,best tutorial ive ever seen. bouta save my grade like a super hero,1
+@basilali9767,Amazing platform for ever...i didn't seen ever before..i'm always waiting this video,1
+@lckylke5751,"Showing hidden files on windows and in powershell wil work with ""dir -Force"" :) Good Tutorial btw",1
+@syundown6005,"Amazing tutorial, being a comp info systems student the only class I ever had that included GitHub only involved us uploading a Google Colab notebook to a GitHub repo a single time and from there every project I ever had just immediately assumed I knew how to use every corner of Git, so I'm only half way through this tutorial and it already feels like it has taught me so much.",1
+@patrickvandersluis2796,"Gwen, once again you have created the exact video I needed. Thank you for the effort and commitment it takes to professionally produce these pieces. I have enjoyed many of your tutorials.",1
+@khatwanik,Thank you Gwen for creating this simple and easy to understand content for both beginners to learn git basics and for experienced professionals to refresh and reinforce Git command line skills.,1
+@dannywadhwa1759,This was a great video to get familiar with the Git concepts in order to start working on it. Thanks Gwen,1
+@wesjonm,This was an incredible tutorial on Git! Very easy to follow and understand. Thank you,1
+@Badalkumar-me9ok,"Such an excellent teacher, I had many problems understanding Git and Git hub now I completely understand all that stuff.",1
+@Shad1991,"First time seeing your tutorial and I'm so impressed...structured and easy breakdown of git and github..thanks so much
+Your channel will become a playground for me now.",1
+@allishagreen4385,"OMG thank you so much for this video
+ This was right on time for me. Please keep the awesome videos coming I greatly appreciate them ",1
+@middle-agedclimber,This is the most comprehensive tutorial I have seen.,1
+@julian_pp,thank you! I was looking for something like this. Good job Gwen!,1
+@mong4491,The SSH KEY part should be moved up to the creating GitHub part......,1
+@hosseindadashi3578,simple and fluent. That is what we need nowadays. well done Gwen ;),1
+@erisaround,"if you can't use git bash instead of powershell in the terminal:
+1.Reinstall Git Bash to primary drive (C:).
+2.Check ""Add a Git Bash Profile to Windows Terminal""
+3.Restart VS Code",1
+@uyiosaakpasubi6052,"Thank you so much for this, it was a really amazing video. I had a few issues setting up for windows ( had to download git bash), also I encountered a problem using the Personal Access Token (This comment is from December 2022 and the fine-grained token is  in beta) to push to github . I resolved this by using the classic token",1
+@parlezvsfr,"Excellent tutorial ! Very clear. I spent last 2 - 3 hours following it step by step and I understood everything ! I had no difficulty in reproducing the path. And it is very practical. I am a UX UI designer, so a bit impressed with the code. But that was real smooth. Well done !!!",1
+@carlosvenegas8981,Hi what extension in vscode are you using to show git: (master) and in color?  thanks,1
+@nabarupghosh9743,"We just asked for it ...
+And here they are",1
+@altaykaan,"It is well organized video, thank you with a perfect narrator",1
+@emanimal,"Hey Gwen, love the material I learned a lot. Thank you so much for taking out the time to do this,  myself and I am pretty sure others definitely appreciate it. Questions what is the extension you use on VS Code that gives you that nice looking late out and helps differentiate things. Maybe you can run by some extensions you think would make VS Code easier to use. Thank you.",1
+@beinerthchitivamachado9892,"Short, Sweet and to the Point. EXCELLENT VIDEO.",1
+@balijeanbirba3456,Excellent tutorial course of Git and GitHub.,1
+@nguyenvanthang7387,"Love freecodecamp contents. Super easily undestand, infomative and total FREE.
+Could you make a tutorial about devops, CI/CD. That's would be a complete flow in software development. Anyway, many thanks <3",1
+@nurullahates4585,"terminal keeped asking me ""username"" and ""password"",  ""git config --global credential.helper store"" command solved my problem, after ssh creating, adding, config file generating.",1
+@tavettehepburn6154,This really helped clarify the difference between the different workflows based on whether you start with a local repo or a repo that is on Github. Thanks so much!,1
+@donaldli1864,I love your hair style. For the past 10 months I have shaved my head 4 times,1
+@ChaneLX645,Watch this in 1.5 speed,1
+@antilovehyk,thank god I end up in video where all my question are answered. even the git for dummies book doesnt explain the jargons and i was confused. this is a really great tutorial.,1
+@imed-boumalek,"""I tell the waitress i wanna a fork""- the Italian man  who went to malta, 2005",1
+@karthikbachawala,This video helped a lot. I have never used this technology but it was easy to learn. Thank you!,1
+@c38ns,This is the best Git/GH tutorial I've ever seen.,1
+@anubisystems,This is definitely a master class! thank you so much!,1
+@vvidalftw,"I just want to thank Gwen and all the amazing team at FreeCodeCamp, who make possible for people like me to learn this way. I'm feeling very motivated to keep learning to improve my skills. I'm a sysadmin wanting to become a developer, so this course worked pretty well to learn about git and getting used to syntaxis used in git.
+Now I'm one step closer to it.
+Thanks again and keep the good work you people are doing.
+Regards from Chile.",1
+@HolymanFMZ,"You don't realise the way you just save my entire career, That's really for dummies like i was in the beginnig of your tutoriel,
+
+ thanks a billion times",1
+@percys8774,"Starts off ok and then starts rapidly jumping around and loses beginners. Doesn't specify where to type in the ssh-keygen. Are we still in VS Studio? It's amazing that new IT people ever get trained, because every expert is unable to go slow and explain things step by step. So sick of getting ditched by instructors because it's so easy for them and they forgot what's it like to be a beginner.",1
+@Aepus,"Just wanted to say, this helped me out a bunch. The terminology breakdown at the beginning was very appreciated as well as your well-paced explanation. Thanks for uploading this!",1
+@kevinlomeli801,I'm not a native speaker. And the voice of this girl is so useful to understand this video.,1
+@kalucardable,This is on par with expensive courses seen on Udemy and Coursera. Thank you for making this tutorial.,1
+@apurbajitdas,"Short, Crisp, To the point. Wonderful Lecture",1
+@JorgeFoody,"I am pretty new to Git and I liked your video very much. First I think that the explanations are super easy to understand and second I like that you are using command line and git hub to show the features.
+I will now be searching for release management with Git, but you gave me already some nice ideas. Thank you",1
+@petsco3623,this is prolly the best git and github tutorial out there,1
+@umamiimamu,"u did a great job, the best git and GitHub tutorial on youtube I could find. really appreciate what this channel is doing ! Love all u guys <3",1
+@valentinlazar22,"This video was very helpful to me. It was also my first git video and I really got the concept. I don't know why, but while watching this video, I felt like a part of a community working together towards an end goal. Thank you very much!",1
+@shalinichatterjee204,"This is by far the best best best video I have seen to learn GITHUB, thank you so much Gwen :)",1
+@fadinimer4574,"for a long time wanted to learn Git & GitHub and this video explained just right to me. 
+thank you so much",1
+@danhle7999,in 16:31 for someone using powershell 7.x on windows 11. it's `ls -h` which `h` for hidden files.,1
+@aniad264,"I am a total noob but this tutorial is very straightforward. Amazing, thank you!",1
+@vivektelang,"This was a great tutorial, exactly what I needed. I liked the way you boiled down so much content, and kept it understandable, without going down every rathole. I might have to go back to watch the merge/fork part, but this is all I need for now to get started. Thanks!",1
+@ericlimbe3876,Greatest video on version control. Still relevant in March 2023,1
+@fernandoguimaraes4415,For sure one of the best videos to watch while you learning to code,1
+@srivathsan8853,"Very good guide for beginners. Now from my Zero knowledge in Git, I have got some basics understood from this video",1
+@ardabaysallar2029,"wow! so helpful, I was rusty and am now feeling refreshed and shiny again. ",1
+@camillecorti383,"Tutorial is clear, concise and voice is so NICE!  I am watching on the Eve of Bitcoin's 14th bday. Thank you, Gwen, for your contribution to decentralization. I <3 u",1
+@mediaconsumption1452,This is the best git tutorial on YouTube,1
+@rskmahesh3531,One of the best tutorials on the entire internet.,1
+@johnnosek731,"My feedback: this was an incredibly helpful overview of how to use git.  Thank you.  I've been using it for over a year now but some of the commands I just ran because that's how I'd seen more senior devs do it.  I really appreciated you explaining what some of the arguments mean (e.g. HEAD, origin, -u).  I know there is a ton more that git can do but from my experience this will give people 90% of what they'll ever use git for.",1
+@Daniel_Ikenna,Amazing crash course. I just refreshed my knowledge on Git and GitHub with this course. Thank you,1
+@binyamtilahun6417,"Gwen, thank you for creating such a clear and informative video on Git and GitHub. Your explanations were particularly helpful, and I appreciate you taking the time to share your expertise.",1
+@mannistudio,Excellent tutorial!  Wanting to learn this 'properly' for years.  Salute!,1
+@AmitYadav-rp3ot,For me this was the best video on getting started with Git. Thank you so much for the great explanation,1
+@estereotipo20,best Git tutorial I have found. I finally understand how this works and I am looking forward to continue using it. Thanks Gwen,1
+@christianleleux2535,A warm thank you for sharing your broad experience in such a clear way. First time I've the feeling to understand GIT in real workflow. Have a gooooood day.,1
+@gustavocortez6569,"yoooo this is amazing! I love how you repeat the steps slightly differently. It really helps me understand how things work. I'm just a salesguy but this has been auper helpful, thanks!",1
+@chaceciulla9783,"Great pacing and easy to work alongside. Loved making all these commands work for the first time and having it all ""click"". Thank you!",1
+@rafaelsantos9086,"absolute beast of an instructor, thank you dearly!",1
+@philipheah6557,What a great lesson. Learnt a lot in just 1 hr. Great job. Thanks Gwen.,1
+@adnanmumtaz4479,"Gwen, You made this tutorial easy for newbies as well. Hats off to your. Keep up the great work.",1
+@Aldedandra,"This was an amazing tutorial. I only knew of GitHub, but wasnt aware of the difference between Git Hub. As a beginning and aspiring developer, this was very informative. Thank you!",1
+@samuelogundoju6365,Thank you. I finally know how to find my way around git and GitHub thanks to you.,1
+@werekublaise4651,My first video to Ever complete on freecodecamp .. doing each practical step by step with a full understanding .. thanks you ma,1
+@obinnasunday2823,best lecture on youtube regarding this topic,1
+@francisegah6115,This is literally the most direct git tutorial i have seen. The explanations are very clear and easy to understand. Will surely recommend this to my colleagues.,1
+@foruzanhamedi6448,"you are absolutely awesome your voice, your slowly explanation, your knowledge everything. thank you so much",1
+@evanwarren1010,"while i'm aware this is terrible reasoning, it's amazing how quickly I came to trust you as an educator after seeing the character lineup of Mother 2 on a shelf in the background.",1
+@SifuNH,"Hello Gwen, Thank you for this tutorial. I support a plugin for VS Code and felt I needed to understand Git better to support my plugin. Mission Accomplished!!!",1
+@suhud-al-yeqeen,Many thanks for this Gwen. Your explanation is comprehensible for beginners and intermediate alike,1
+@roelyoon,"Thank you for the amazing tutorial! As a beginning dev, you've taught me a lifelong skill in just an hour!",1
+@Ramya-z6x,Thoroughly enjoyed learning the git and github concepts. Explanations are very clear.,1
+@jaimegarcia8447,"Loved this tutorial. Perhaps the best git tutorial I've found. Gwen's explanations are as clear and concise as they can be. 
+
+That said, I feel the conflict management bit might have been expanded a bit though (I found a bit surprising that the conflict was fixed in the test branch but master was behind when the section finished - my knowledge is very limited so I might be talking rubbish though).",1
+@DheerajAeshdj,i got a clear understanding of how git and github works. thank you.,1
+@tantegreta,"Thank you, this is really good stuff. 1 hour and I know everything I need to know to start my project. Concise and constructive, thanks a lot!",1
+@zoezou748,this is the best video ever for github beginner! thank you Gwen!,1
+@anudeepnayakoti,"Its a great course for complete beginners to learn about GIT. I used Git from many years, but wasn't aware about importance of the ""upstream"" command. This course made me understand it. Thank you so much for your efforts. I appreciate it.",1
+@OracleOfSages,Wow awesome video! You are helping so many people get starded in their journey to software engineer! Me included!,1
+@orhannaseri,Thank you so much You saved me from a big problem. I was stuck on this topic for 2 weeks but your video helped me.,1
+@mordest_porcket27,Had fun learning from you. However one thing you can add is to show how the processes differ between mac an windows i had a lot of issues following along since i primarily use windows. however i got insights from GitHub publishing.,1
+@MariaAkterRimi-h9y,Your pronunciation is so clear! and the video of course was so good!,1
+@uzairmughal4976,I am addicted to this channel already,1
+@jk377y,Wonderful explanation.  I just started a coding bootcamp and this was a great help.,1
+@NsorEnya,Gwen! This was amazing!! I feel so confident with Git and Github already...thanks a lot!,1
+@Ajoi14,That was a really nice intro! Now I understand the Merge Conflict way better! Thanks Gwen! ,1
+@savithpanamgama2107,Got introduction to git and GitHub madam. Learnt a lot!!,1
+@edwinantonius63,"Great explanation of how to use and integrate Git and GitHub into your IDE. Scrolling through the timeline it seemed that I could skip some topics since they don't cover the exact information that I was actually looking for. Only to find out later that one by one, most if not all of my questions are answered in these topics. Pleasant surprise. Great work!",1
+@hackeymabel8296,love all the hotkeys included in your speaking,1
+@bl.fl.,Thank you for the tutorial! <3 This is the best explanation for Git & GitHub I've found so far and I've been looking for a while! It's perfect for super beginners.,1
+@mohammedelhassanhabiballa5700,You made it as easy as butter!. Thank you so much Gwen,1
+@ManishKumar-cz3ud,Thank you Gwen! I really like the way you narrate.,1
+@carolinamora1926,I'm branching into technical writing and this is an amazing class! Thank you!,1
+@vandanpandya9587,A nice and intuitive video explaining github and its functionality.,1
+@tejasbawa,"Thank you for getting me started in Git/Github, this toutorial was a great help",1
+@AbhishekRavinuthala,Hands down the best tutorial i came across. Thanks a ton!,1
+@theinhtetaung7193,Thanks!,1
+@RajeevRanjan-zl8nw,Thanks for this amazing tutorial. It was very concise and clear. A must watch for everyone struggling with git and github.,1
+@timbald,Superb. Thank you. >4.3 million views says it all. Brilliantly done. Good use of time back in Covid!,1
+@shravanpopstar,Thank you for the explanation. I am new to git and this gave me a clear overview of the git mechanism. you're great!,1
+@joaopedrovoga5497,"As a newbie programmer, I can't believe I was just saving all my projects to Google Drive until now!",1
+@ken-sims,This was a great tutorial. Very easy to understand. Thanks Gwen!,1
+@evrarddylane6449,"masterpiece
+I'm so grateful I watched this tuto.The Lady is really good at explaining",1
+@The3biscuits,This helped me set up git and github access for the first time. Thanks!,1
+@Jahuni..,"This video was my introduction to Git, @FaradayAcademy is an amazing teacher. I am about to buy your book; this is how I say THANK YOU and show my support!",1
+@alexmondragon2594,"Hey guys, if anyone see a "".DS_Store"" file when you commit (with mac) , be careful! Usually this doesn't show when you have a "".gitignore"" file set to ignore it in you app's folder. Probably Gwen turned off the automatic creation of this file globally in her terminal by running: defaults write com.apple.desktopservices DSDontWriteNetworkStores true
+
+You can turn it back on by running: defaults write com.apple.desktopservices DSDontWriteNetworkStores false
+
+Thank you so much Gwen, FCC and this amazing community!",1
+@davidesther5987,"TimeLine
+1:10 What is git
+1:30 What is version control
+2:10 Terms to be learn in video
+ Git commands
+ sign up in github
+ using git in local machine
+ git install
+ getting code editor
+ inside vsCode
+ cloning through vsCOde
+ git commit command
+ git add command
+ commiting
+ git push command
+ SSH Keys
+ git push
+ Review  workflow so far
+ Compare between github workflow and local git workflow
+ git branching
+ Have fun is not allowed
+ Forking in git
+ Ending",1
+@unlimitedRewind1,At 24:55 I place bookmark. Thank you for the course.,1
+@bearcountrypublishing5303,Thanks so much.  I have been struggling with git.   I've broken to many of my repos for sure.  I think this new knowledge will help me so much.  ,1
+@davidk7212,"I still can't believe Git actually changed the standard name ""master"" to ""main"". The sensitivity and the pandering truly knows no limits.",1
+@arjunsemwal02,Thank you so much Ms. Faraday for sharing this great and helpful easy to understand tutorial ,1
+@ph7305,"Thanks so much! At last I found a video for Git and GitHub that was clear, understandable! Great help.",1
+@shreyasrivastava693,It was just great watching the video! Such clarity of teaching.,1
+@22niloc,Thanks for this course. I found it really helpful and easy to follow along to. You get straight to the point with not a superfluous word within hearing...,1
+@masoodahmad8897,It was an amazing and detailed video on Git and Github. I will highly encourage all the beginner to do watch this video if you want to learn git. Thank you so much Gwendolyn Faraday!,1
+@maurobompadre7772,most clear git tutorial ever. kudos,1
+@johnmahugu,Fantastic! Bigup from Kenya :) Thanks Gwen.,1
+@haoyuyang3720,The best git n github tutorial online!,1
+@JamesJianDev,"This was a very insightful course into the fundamentals of GitHub for a newbie like me, so thank you! The bit that helped me a great deal was the brief workflow review clip at 30:26 that concisely went over the difference between Git flow and Git Hub flow. Once I understood that, the way Git works became less mystic and more understandable!",1
+@MsEdnira,Thank you for this carefully made and clear tutorial. Git is still a mystery to me  but things start to get more clear,1
+@julian1971,Thanks,1
+@user-vy3ed4gu5l,"Very good tutorial with just the right amount of detail. I enjoyed it, thanks for making it!",1
+@hades306,Great introduction to GIT and GIThub! Thank you,1
+@alisonoz7219,what a great tutorial!! I followed till the very end of it and I highly recommend it!,1
+@kanhaglobal,Excellent Intro to Git and GitHub!  Thank You.,1
+@ahmedshakkhor8329,"Your video was great. Learned a lot , thanks!
+Although I have 3 points to address:
+1. You didnt mention to switch to gitbash from powershell
+2. SSH key part was not clarified for windows users
+3. After fixing merge conflict, I didnt know what to expect on my repo.",1
+@vihangaherath2772,"The best GitHub tutorial for me, short and accurate ",1
+@vasileioskaragiannakis3792,Hi Gwen from Greece. Thank you so much for this educating course,1
+@gabrielade775,"Great video,  very smooth obce you get past the ssh keys. Great work Gwen",1
+@aaliyafathima2999,This was a really informaive video. I got to learn git and github really easily. I was worrie it would be complex but this videos was just really easy to digest. Thank you <3,1
+@AlfonsoMonserrat-s4z,Thank you for this. You applied the knowledge to the day to day of a developer. ,1
+@olekingkinga9151,Good work and support GwenFaraday. Much love.,1
+@sjoseph6533,I appreciated the headings in the video to break it up :),1
+@Sunils_Creations,"the explanation was clean and simple, Awesome video for beginners.",1
+@dasanv7016,Clear and precise! Wonderful presentation.,1
+@saurabhdp,"Just FYI,
+25:36 
+Due to the recent replacing of 'master' with 'main' in GitHub, 'git push origin master' may not work. 
+Use 'git push origin main' instead.",1
+@BOMGlobalStrategy,"Thank you Gwen, I'm completely new to programming but I'm resolved to give it a go",1
+@p21072,Thank you so much for making this tutorial available for free got to learn a lot from it,1
+@cliffordbenoit5500,"Gwen you are amazing, thank you very much for this great tutorial, you explained this masterfully. You got yourself a new subscriber",1
+@AdityaRaj-lj5wf,A very good to cover all the basics. Thanks a lot Gwen,1
+@study-me1oe,Thank you so much ma'am for a video on Github. Your way of explanation is as good as you,1
+@himanshujangidd,"Thanks a lot to you for bringing out this to us so simply and descriptively. I was facing a lot of problems in using the git and github ,after going through this video, now i have a complete idea of how to use all these features. It  was truly an amazing  explanation , Once again thanks a lot gwen ",1
+@usheeg,The best video I've watched on Git,1
+@atinjanki2651,"Great tutorial! You explained things in the simplest way possible. Enjoyed learning and understood everything you conveyed!
+While following the video I noticed that doing 'git init' in the local repo creates a git repo with intial branch name - 'master'. This causes issue while pushing to the 'demo-repo2' as it has 'main' as the name of the branch.",1
+@kiwibazza99,Thanks for creating and posting this video. Alot to take in but a great start into the world of Git...,1
+@ob7633,Best explanation for basics in git and github,1
+@3bmbm3,You are my hero ! Thanks for the crash course which helps a lot for newbies like me,1
+@gillesherpoel1454,A kind thankyou! The Guide was extremely straight forward. I've learned a thing or two.,1
+@hussainal-ahmdi1484,"Great video, thanks for instructor and the academic for this greatest crash course for git and github",1
+@thetraveller9823,Worth contents forever for all git learners  thanks for the informative content,1
+@yvanngneunmeu8763,"Great introduction to Git and Github, well explained! Thanks Gwendolyn!",1
+@ahmedhassen8901,Windows users who are having an error when trying to add your sshkey ... You must create the .ssh folder and move your ssh files to the .ssh folder you created manually,1
+@jan5310,A very good introduction into GIT. Thanks!,1
+@haoliangwei1041,What an amazing explanation! First time to feel so clear about git,1
+@davidsimek1197,"Thank you, I have interview in few days and this really helped me.",1
+@tsheposerumula6283,Absolutely loved it. Thank you so much. I'll be definitely following you on your channel for more information.,1
+@tusharbhatia1299,Thank you so so so much for uploading this video. You have no idea what a big help this is. It is very well explained. Kudos to you and the team. God bless.,1
+@prashantdubey8248,That was crisp and clear....thank you so much for this video...really helped me a lot.,1
+@Sasha-xg6xy,I think this will end up waaay above one hour tutorial for the beginners such as me :),1
+@daydreamical,"This was an excellent video, can't thank you enough for sharing your knowledge in such a clear, concise and easy-to-follow way. I got a way clearer understanding of stuff I already work with and learned a lot of new stuff. Soo good, thanks again!",1
+@varunr5,Well explained. Finally I have a video I can understand and refer back to.,1
+@alfredoderodt6519,Thanks so much for this @FaradayAcademy. I put a lot of time in getting everything you explained and now I'm ready to contribute and manage my projects in a clean way!,1
+@AkshayKumar-pk1jr,"thank you very much for this video madam. , I will follow all you channels. 
+
+P.S. You have a beautiful voice",1
+@mikolots,Gwen is an awesome teacher.,1
+@ChetaMk,20:58 Please what CLI are you using to type the SSH key command and generate it? Thank you,1
+@karthikshivegowda1704,I found this very useful trying to make sense of git coming from few years of other versioning system usage.,1
+@archertal0762,As a beginner really appreciate it.,1
+@tunichtgut5285,Great tutorial! I'd like to point out that the setup processes of the ssh-agent is Mac specific. On Linux distributions with systemd you'd use systemd/User to start ssh-agent upon login. Some distribution e.g. Ubuntu come with this service enabled by default while on others e.g. Arch Linux you have to set it up manually.,1
+@AminAlSharif,"This tutorial is excellent and will look quite understandable if you have a decent knowledge of CLI commands. If it seems hard to you, better find another one or start learning CLI commands first.",1
+@saurabhpratham311,Great session specially for beginners. Explains all the fundamental concepts to get started with GIT.,1
+@wasimahmad9927,"Feedback: it was amazing tutorial
+I have lots of doubt but all doubt are clearly so thanks a lots",1
+@bjroche,"Excellent video and a great introduction covering all the essentials, thank you!",1
+@cliffmathew,"This is the best git tutorial by far. Excellent job - thank you! Now going over to Twitter to subscribe. (Also people, read the comments below - some of them add useful info)",1
+@junweizhang1034,"Maybe adding some theory in the end will be bettter for beginners, since understaning the theory behind those action will let them remember each step easier. Anyway, a good video. Thanks a lot for your work!",1
+@NicoHeinrich,This in depth explanation was extremely effective and worthwhile. Thank you so much for sharing this!,1
+@rbid,"Very nice intro to git.
+It is hard for an old dog to learn new tricks, but I did learned a lot here.
+
+Something that I think it is missing, or maybe it is more advanced topic is ""rebase"". It will be nice to have a video on this as well.
+
+Greetings from the Galilee.",1
+@qliveder5164,this channel is pure gold,1
+@ErmiasShiferaw-n2y,"Great tutorial . The way you presented it made the concepts much understandable.
+Thank you for sharing.",1
+@pyth0477,So far this is the best beginneer friendly git and github tutorial I watched so far in my short journey of learning some programming. Thank you @freecodecamp and @gwen faraday!,1
+@PunithKumarPulicharla,Examples helped me understand very quickly!!! Great work,1
+@AndreaNing-x5z,"Thank you Gwen, you are an excellent teacher, very clear instructions ",1
+@Peppa233pog,Loved the professional explanations and the well identified steps. Definitely gained a lot out of this video and I look forward for more.,1
+@koribr764,Wonderful. So clear and to the point. Thank you,1
+@edi.carlosIHS,Thank you for your video. You speak english in a good ritm to understand. Thanks for speaking about pull request in a real world. What is the good practice in merging. I was looking for a speak like that for years. Thanks.,1
+@williameisner-f5t,You are really good at explaining how and why. Thank you.,1
+@MMead-ti7bl,Thank you! Your classes were very helpful to this new git user.,1
+@takyiwa-mensahgeorgina2429,The presentation is awesome. You made the concepts so easy to understand,1
+@MichaelShingo,"This was so helpful, I finally understand basic git and it will help me work on my first team project",1
+@MuhammadSodiqMirzayev-e2p,thanks for this comprehensive git and github tutorial,1
+@Azeem_Idrisi,Thank you Gwen Mam for making this video. Your explanation was crystal clear and It helped me lot to learn git in a simple way.,1
+@piwini,thank you do much! Gwen is an amazing teacher!,1
+@DesiGameChaser27,Very good explanation. Cleared many of my doubts with regards to branching and forking,1
+@liammasias7029,Thanks for the well informed tutorial! It will help me in my internship so I don’t FORK up ,1
+@fahriz9163,"all the little important detail that might b useful
+1:10 i feel reading caption without sound decrease the noise that is my mind
+1:12 git as branded vcs object
+1:38 trap our code changes",1
+@deja00,Thank you. I worked my way through your tutorial. It was great.,1
+@rebi6854,she explains very well. got me hyped,1
+@SAMMYLEE47,A good crash course for fast learning..thank you,1
+@hustler212,This really made git simple for me... Thank you very much.,1
+@kelvin_thecarguy,Wow wow wow this helped me so much! I can't express how thankful I am .,1
+@WWallen-ts4we,"Clear and concise explanation, loved it!",1
+@TedMutwiri,You were very precise during explanation and i could easily understand.Thanks,1
+@kingking8407,That is a master class tutorial. Thanks for it.,1
+@zouhairmouaffaq5174,The content of the tape is beautiful from the moment your face appears in the beginning until it appears at the end,1
+@cantorbernoulli4407,"if you are following along in order to list files and directories with additional details, including hidden files the equivalent command in Windows Powershell,is :
+Get-ChildItem -Force",1
+@zaavielgeraldkabir7430,Clear and precise tutorial. I really learnt a lot from it,1
+@user-kn3yw8zl2f,This crash course was great! Thanks!!,1
+@ruantos1,Thank you very much for the course. She teaches very well!,1
+@mahdiesmaeili7331,"Thanks, this course is really great to get started with Git and Github :)",1
+@whoviancoder,Just finished the video! Everything was very well explained and the examples were clear. Thank you\,1
+@mdshahjajan7151,"@ 17:02 you could use ls -Force
+command in terminal for windows system if la command 
+ doesn't works for you",1
+@shadyphobia5586,thanks for this effective tutorial! lots of love and respect Gwen! thank you for your incredible teaching style! you are the best!,1
+@mandefrolegesse5748,Thank you so much. Your way of tutoring is very interesting and in understandable manner.,1
+@christo4520,"THANKS SO MUCH FOR THIS.
+
+This was extremely helpful and thorough. 
+Cheers to using Git for managing the code chaos! :)",1
+@nitinc6534,"Excellent learn,  really appreciated for easily understandable video on Git and GitHub topic.",1
+@souravs6810,Just an amazing calm explanation. Thank you for the efforts,1
+@collinskimutai1476,very informative git tutorial for beginners,1
+@fatih-karahan,"You are really inspirational, thanks for this gwen.",1
+@sergiocampana9553,"Great tutorial, had a lot of fun learning.",1
+@microscaleoceanbiophsicsse8853,"Hi Gwen, very nice video and really useful. You're a great teacher!",1
+@redaabakhti768,best tutorial on github by far,1
+@davidruedeman9990,Great video gwen!  For me git is unintuitve but this course helped a lot.,1
+@oydinabdurasulova,Thank you so much this amazing course. The knowledge I gained from it is going to so valuable. Keep up the good work,1
+@misterrhombus,Best tutorial of git I've seen,1
+@fiyinfoluwaenis4786,"Thank you very much for making this video. 
+
+I love this video because it is very simple and explains important concept. I also loved how you reinforced the knowledge you had already explained by using them such as git add and git status",1
+@CamaguNcoso,"I have been watching this video after installing Git on my Windows 10. There are few points I have to make
+
+1. This video was created 3yrs ago, the GitHub was not yet advanced compared to how it is now. Yes I have Github account thanks to this video
+
+2. Visual Studio Code is also advanced because there's an option that allows you to clone without going to the terminal. You simply copy the address of the repository you want to clone in Github and past it on the address box on VSCode.
+
+Which makes the video to be outdated given the fact that VSC and Github have advanced since this video was shot. I struggled until I saw the differences between Github 2023 Sep 16 and the one used in the video(3yrs ago). Same applies for VSC, it is so advanced thanks to the developers of Microsoft
+
+From there, I struggle to follow through bcos you're using a different operating system compared to Windows 10 That I'm using",1
+@sonyu6,Amazing tutorial!! Thank you Gwen!,1
+@josiahjrock,"loved it, was straight forward and explanatory.",1
+@AI-su3ds,This is an amazing explanation and presentation. Thank you so much!!!!,1
+@hiimanengineer9668,"Thank you for this video, This really helped me understand Git and Github",1
+@ankitnaik757,Thank you so much for crisp clear explanation,1
+@patrickmuchiri154,Great video tutorial. Clear and concise . I appreciate,1
+@onurinan349,Great content! 80% of using git in real life,1
+@ifeanyichimbo,"Thanks for the tutorial. Very concise and straight to the point.
+ps: On windows OS, commands like 'git push origin master' dont work until I replace 'master' with 'main'",1
+@saulovieira1846,amazing tutorial with really transparent and useful intel. thanks a lot for that,1
+@mohamedmasri2282,Thanks a lot it was great to watch this crash course ,1
+@sigangsabaglari3606,Excellent. Loved this tutorial. Thank you so much.,1
+@emad_arnesto9175,thank you so much for this useful and simple explaining about git and github,1
+@gamingwiththekaneki,Thanks Gwen. It was very informative and very useful to refresh my knowledge abot Git and Github.,1
+@sachinthatte9672,Great tutorial quickly helping us get started on Git. Thanks for your excellent work.,1
+@peterchyu,謝謝！,1
+@bobbyfranklin9844,"A very well put together and delivered primer on GIT! I have tinkered with GIT on occasion over the years as an admin but never looked at an end to end walk through.
+This video is the perfect content to get you from zero to proficiently using best practices in an hour. IMO there isn't an ounce of fluff in here. It's Goldielocks just right, not too light and definitely not too long.
+Gwen does a great job of delivering the content, making it very easy to follow along and understand the logical flow.
+Kudos, both thumbs up.",1
+@dancodrut,very clear and easy to follow. thanks!,1
+@gouravkarmakar9606,a great crash course for Git and Github,1
+@olagokeholo1354,Thanks so much! I can use version control on cli very well now,1
+@Infuriated_draken,"Hey, great tutorial loved the way you explained in an easy to follow approach. Quick question at 55:37 you merged with master while staying on quick-test(sub-branch), it didn't bring any changes to the master branch. So what I meant to ask is if I to bring changes into my master branch I should do the opposite right!? But what is the difference between these two and in what type of scenarios do we have to use them?",1
+@ronh5613,"Nice video thank you for your hard work.
+I have all my volumes turned up fully and I can bearly hear you it's probably something with YouTube.
+However I plan to follow you from now on thank you again for your hard work great video",1
+@blackvampiremovie,"such a great tutorial to help beginners understand, thanks so much for your time!",1
+@WSW254,"This is enough to be a book , detailed _ excellent.",1
+@nimabeig6773,"great video, simple and easy to follow!",1
+@rosieshiels7500,Really great video. Explained Git and GitHub so well,1
+@mohadesem1951,"It is a great video, thanks. I wish the undoing section was explained more, I did not get it all clearly.",1
+@BernhardSailer,"Thank you so much. Very helpful, ist just followed the steps along and got a much better understanding now ",1
+@jeffreyshaffer3076,"Very, very helpful. Thank you!",1
+@axsh970,LOVED IT THANK YOU SO MUCH CLEARED ALL MY DOUBTS,1
+@utkarshbharadwaj697,The video's very informative and has covered all the topics of git and github.,1
+@utkarshbharadwaj697,The video's very informative and has covered all the topics of git and github.,1
+@avyaanverma2779,"great video, it cleared my branching concept!",1
+@delejohnson2852,Great video. Loved everything about it and especially the presentation.,1
+@madmetalking11035,It was an awesome tutorial. Clear and exactly what I needed. Thanks a lot.,1
+@vatsalshah7557,"Too good!
+Much thanks for this course!",1
+@pannaert,"Great tutorial - learned so much, being a newbie here...",1
+@anapslima,"Thank you, Gwen. It was very useful!",1
+@mehdimalekshahi1624,"I was amazing , it was my first experience with git",1
+@pitsil,Excellent delivery Gwen,1
+@ParthibanMathan,"32:36 
+hello mam , here while using github for repository creation there also we used git add ,git commit and git push right but why did you mentioned it in local git work flow alone",1
+@b3-76sarang2,"Easy to learn and understand, thanks for the vid, very helpful",1
+@lysander2006,Your explanation is sooo helpful thank you so much I love this channel ,1
+@CésarManuelCuervoOrizondo,straight and simple... nice tutorial,1
+@ITinProduction,Wow you even made things easier for us,1
+@muminkiatack,Really great tutorial ! Exactly what I needed. Thank you!,1
+@miresajote3832,i got it amazing and deep understanding video anybody every thought on you tube . thank you very much for such helpful knowledge,1
+@gideonofoegbu4331,"Calm and detailed explanations; thank you Faraday! By the way, was your Dad named Michael?",1
+@awsrestartlikeam5,"nice tutorial, and clear confident explanations.",1
+@ronkline8726,"Thank you for the tutorial.  I hit a brick wall at 12:55 when Visual Studio was introduced.  If git has never been used on the Personal Confuser, does one need to create a git folder or directory on said Personal Confuser?",1
+@ishadyaabesinghe1216,Voice is so cool !,1
+@atinukeadeshola-manuels9364,Wonderful video. Straight to the point,1
+@Gandobilis,Thank you very much for such a great and consize tutorial!,1
+@uzmaijaz4295,This is the best Git tutorial!!,1
+@godhatesewe,This was awesome. Thank you for sharing your knowledge.,1
+@akshatraj5952,Thank you codecamp and madam for this wonderful video about git.,1
+@blackdiamond7790,Thank you so much. I really injoyed it,1
+@MUHAMMADUMER-on2nr,Excellent and detailed tutorial. Thanks a lot.,1
+@hcsrihari,"those who are unable to create and connect the SSH keys , refer to the documentation link given in the description as the process has been updated.  :)",1
+@dharmatejagrandhi3445,It was really useful for the beginners to learn.,1
+@irenzo5807,I really appreciate your work. Thanks for clear explanation. This helped me a lot :),1
+@bunbury4620,Thank you for this wonderful tutorial!,1
+@ceciliocbaroperez8815,"Excellent explanation, many thanks sharing this great work! :)",1
+@Alex-eq7uh,"How do you make the branch name appear in the terminal in VS code? it looks practical to always know where you are
+The video is straight to the point, your voice is nice and clear and it was a pleasure to watch",1
+@diasthoughts,"Very clear explanation, thank you!!!",1
+@raman2954,"Thank you, for this nice, informative video.
+When we create a repo on Github, were will it create? 
+Somewhere online?
+Not locally.
+So, probably it has its own disk space to create repos.
+Where is that space?
+Who configures where this space is?
+Could we configure it to use my local disk space?",1
+@hassanaskari172,Thank You so much Faraday,1
+@gabisz.7005,Aamzing crash course!!! thanks a lot :),1
+@MrTonyDtiger,Excellent as always. Thank you !,1
+@hodabaloyaou4859,a best tuto i have never seen thanks,1
+@abhaykela,I liked this tutorial. It is very helpful. Thanks.,1
+@currenttrendtv8920,"Best course 
+ instructor",1
+@korkoujustus3789,Very insightful!.A masterpiece. I learnt a lot. Thank you.,1
+@DavidBacarella,Simply outstanding.  Thank you.,1
+@luisluiscunha,"Hello. You are a wonderful teacher. I enjoy your videos and pedagogical style very much. Can I make a suggestion: please increase the volume of your voice recording. It contrasts with your fellow freeCodeCamp tutors, and the ones on YouTube, in general. Again: thank you so much for your precious educational contents, and for being great at explaining!",1
+@gancheehang4579,"Thanks for the video, it really helps for a beginner!",1
+@shane9005,"Great video, thank you Harsh!
+I have a question regarding the autocompletion capability in the terminal with git. When switching branches, it would be useful to have.",1
+@ddilkj,"Very useful content.
+Thanks for the commitment.",1
+@GamerForeverChannel,there should me updated version of this course because some has been changed already.,1
+@youssefbl3653,Amazing Video Gwen . God Bless you !,1
+@adebayorajide9171,All I have to say is thank you Gwen,1
+@annwang2990,great video and full of useful techniques. Thank you!!,1
+@tamasnagy1963,This course is great but need to be updated!,1
+@hv6411,Beautiful explanation! TY,1
+@ioanabiris6072,Thank you so much for this video!! It was really helpful!!,1
+@kevin-k3s2m,Thanks Gwen!!! This is super clear !!!!,1
+@aurel_loss,Simply amazing. Thanks a lot ,1
+@boilami,You have a beautiful and calming voice,1
+@aneclip7117,completed all thing today ,1
+@VihaaShetty,"Thank you so much for the wonderful content, great tutorial...!",1
+@НикитаСеребряков-е1в,Thank you so much for this video! I am really admired by your explanation!,1
+@csherms289,"Thank you so much for this video, I learned a whole lot!",1
+@sheilab26,Thank you.  I learned alot from this video!!!,1
+@GinikachiEkene1610,"Amazing bro, thank you so much. Please I would like the next video.",1
+@timaya6,Wow you are amazing. Thank you so much for sharing. I have to subsctibe. You explained everything wonderful and thank you for not assuming we know know what change directory means. Cant wait to watch more of your Videos ,1
+@kathisterimata,great video. very informative. nice flow also,1
+@trevormcdaniel2633,Thank you for the tutorial. It was really beneficial. A shout-out to you Faraday Academy and the G.O.A.T Free Code Camp,1
+@puneeth95,Thank You so much for the video. Really appreciate the work and it was really helpful.,1
+@josephchibuikenwokeafor1563,"Thanks a lot, ma'am.
+It doesn't get clearer than this.
+Please do you have similar videos on Python for Data Science?",1
+@claudedaiga5897,Thank you for this excellent tutorial.,1
+@hawkeyetokyo3692,"Best explanation for GitHub so far. Thank you so much for this tutorial. Also, may I ask you how did you change the color of your code in the terminal? Thank you again!",1
+@techstart276,Excellent presentation. Thank you,1
+@skyxvx551,Thank you so much very good video about git and GitHub!!!,1
+@jim7smith,"Thanks, Gwen....  I have watched a LOT of videos on git and I must point out that your video is the most useful one I have seen.  You explain EVERYTHING clearly and concisely.  If I now take the time to take some notes and make an outline of the steps, for reference until they become second nature, I will be on my way to successfully using git on a frequent basis for various tasks.  My  goal is to be able to setup a git repository with all of the bash aliases and scripts that I want in a repo so that when I setup new devices I can clone all that without futzing around with usb sticks and such.  Can you point me to such a goal?  Thanks.",1
+@programmers_pub8723,"As always, love the educational video",1
+@AshutoshKumar-bn5et,"Damn, you are an amazing teacher.",1
+@rusureaboutthat781,Great video just what I needed !,1
+@salinas718,You are simply AWESOME!!!,1
+@yaseminapacik2219,"Amazing Tutorial, Thank you so much!",1
+@jenishghimire7,"This is very good for complete beginner.
+
+Try it guys.",1
+@SRG-n3d,The best one to start Git !!,1
+@LeonKoundouras,Hello and thanks for the information. At 39:27 what is the vscode theme used?,1
+@GullAhmed-mn1we,"Thank you so much for the video, explained everything excellently.",1
+@obinazovibezzz2548,i love you for helping me with this! thanks a lot,1
+@code_guitar,so many thanks. it help to me so much. clean and useful,1
+@sahilbanssal777,Great video for beginners like me.,1
+@tolaadisa9906,Great video. Very well explained too,1
+@study-me1oe,"At 58:50, what if that was my first commit which I had made a mistake, and want to revert the commit by HEAD~1.  As this is the firs commit, then what will the HEAD~1 point to?
+
+Answer is appreciated.",1
+@HaoTran-Caibe,Great tutorial - thank you for sharing!,1
+@riiittesshh,Thank you so much for this amazing video,1
+@yrli7501,Thank you very much!!! It's very helpful and informative.,1
+@amolpadamwar1788,Best video found so far ,1
+@skr4friends,Thank you so much for explaining it so well .,1
+@mehdi_gh8797,"thank you for this amazing video, it saved me so much time",1
+@jprinny13,Excellent video! what color schemas/skins/palettes in VSCode and Terminal do you use in this video?,1
+@robinstahlwarelius1845,Thx Gwen! Amazing video :),1
+@venerenailart,"Hi, thanks for this incredible crash course!!! May I know how to setup the integrated vsc terminal to show the current branch as shown in the video? Thanks!",1
+@jgalaz84,Fantastic video; you're a great teacher! ^_^,1
+@sinanaeimi8343,Great and clear videos on Git,1
+@jeremysapienza7277,thanks for this clarified explanation!,1
+@dc_valluru,Great tutorial for beginners,1
+@TheEsteban1979,You are awesome !! I finally got it!,1
+@Inf.void_x,"beautiful tutorial! thank you very much, you are awesome!",1
+@kevindarmawan7146,"love it
+
+really easy and beginner friendly",1
+@funandgames7275,"Very useful video, thank you for sharing it with us ",1
+@pratyadutimishra3332,It was very wonderfull video for a beginner.,1
+@harshsinha9709,Beautifully explained,1
+@olowott,"thank you, really useful and comprehensive.",1
+@mdfaizanalam_,Amazing tutorial on git...Just loved it,1
+@manrajmann4732,good and calm explanation !,1
+@Qamar-sz4nf,"Maybe this is just my own weakness, but I found this video lacked clear definitions for some of the concepts discussed, which meant I had to keep pausing to look them up. Otherwise, it was a great lecture and helped me a lot.",1
+@simonemodolo7349,"Very nice tutorial, thank you!",1
+@neelnickkey4865,"Clear & Crips , going to join faraday academy !!!c",1
+@luciarigoni8289,This video is perfect! Thank you!,1
+@CamonaTempest,Excellent video  Thank you ,1
+@abdulkadirbiffo8937,Thanks for the video. So helpful!,1
+@saadchougle2902,"Thanks for this tutorial. After deleting a branch locally, how do you make that reflect on your github repo? How do you commit a deletion?",1
+@abduqnauy5434,Thank you very much for your useful tutorials,1
+@neswongservicedelivery553,you rock. Thanks. You made it look easy,1
+@thangbui6383,"Wow, really good tutorial, liked.",1
+@sayantanbhaumik1915,is the step in 24:21 only for Mac? or do we need to do this for Windows too? adding keys to an SSH agent one,1
+@raman2954,"When we switch to branches on the command line, how to make sure that we are working the files of that branch only in code editor (say VS Code)?.
+Sorry, my questions are all basic.
+I never worked on GIT and saw your video on internet informative and started learning..",1
+@the_spade32,"Thank you very much, that was very informative and helpful!",1
+@Anandraval16,I dint see pull request step after push initially.. wanted to know the diff between push and PR creation !!,1
+@fahimhuq2768,Great explanation! Thank you!,1
+@joshvince3701,"Firstly, thanks for the video, it's very helpful. I have a question about the hot fix branch. If you subsequently merge the feature branch, would that overwrite the hot fix changes?",1
+@jaskaransingh0304,Thank you very comprehensive course,1
+@marsitschool9495,Thank you a lot I got many benefit from ur tutorial))),1
+@rushikeshgore5168,great work... thankyou teaching me git,1
+@jamessajan4250,You have my gratitude forever,1
+@Kid_Sniffer,5:06 nice to see the changes on you though!,1
+@alexandranesterenko,"Very informative, thank you!",1
+@ludwigvillalba1886,Well done. Thanks for sharing!,1
+@JacksDeadInside,I'm braindead and understood this clearly 10/10,1
+@anonymouz06,This really helped. Thanks for this interesting and detailed video.,1
+@shaxzooda_cookings,Thanks for video course!,1
+@gothfrog69,"Great explanation, thank you!",1
+@KingDestrukto,"This was awesome, thank you!",1
+@Bedrumekiyu,I like everything about this titorial,1
+@TheudosGauh2946,"Almost no prior knowledge in this topic, and a little too difficult to follow through. But still get some important concepts as well as a general idea about github",1
+@hadianoor3750,"Thanks, this course is so helpful. I have a question about Fork.
+so, when you fork another repository to yours, download it to your machine, make changes and push it to master, you are not pushing your changes to the repository you forked with right? Its just your master that changed and the repository you forked, would still be unaware of all this. Right?",1
+@hassanben_amar2495,"thank you, it was a good course, you are so kind !",1
+@ramelsanchez5821,"great crash course, thank you",1
+@raghuvanshsiddharth9048,"53:34 ------> git diff master. In the main branch(master) ""there"" is included in the index.html file so why is ""there in red"" and ""world in green"". Ain't it has to be the reverse? Please someone explain...",1
+@guillaume6373,"fantastic, thanks for helping me learn :)",1
+@edilsonebenmanjate2573,Thank you for this tutorial.,1
+@okkystafford1201,Does anyone know how to change the VScode Terminal to the version in the video? i seem to really like that clear terminal and colour coded style? Any help would be much appreciated. Overall a great introduction to Git. i'm only 25min and i'm learning a lot. thank you ,1
+@techboyankit1692,Very nice video for beginners...,1
+@wkarjun5933,"that was very informative, thank you",1
+@robbynickgallardo,Love that gwenpool behind u,1
+@codepie1922,"Can someone explain how she managed to make the terminal look a certain way, it looks very colourful. So, for example at 15:34, its git:(master) with different colours. Does anyone know how to do this? Thank you.",1
+@harunayshaba2235,"I found it very much interesting but I am a beginner need much guide, how can I get it from you waiting to hear from you as soon as possible. Thanks for your encouragement.",1
+@sarahmcdowd,Thank you. This was so helpful,1
+@wesdavis8011,"I have a question , are you generating your SSH key on gitbash or on the command line on your text editor? 
+Thanks and I love the video!",1
+@sebastianlozano7707,Awesome video! Thanks so much!,1
+@giuseppebuonomo7241,Thank you! All very clear.,1
+@sandeepthakur5962,"Gwen great video for beginner like me  
+What is the difference between fork and clone?",1
+@afaqjaved4378,"I think instead of ""ls -la"" typing ""dir"" in terminal provides more information and also tells you the size of files",1
+@TheZiommati,"Great tutorial, thank you!",1
+@MinhTran-sl7kc,Thank you for your hardwork!,1
+@ঋতুপর্ণা,"Thank you very much, you are very helpful ️",1
+@lilianamilano3707,Wonderful video. Thank you!,1
+@ramprasadsomaraju3889,thanks gwen its very engaging as well,1
+@matthewsiebenga3252,"thanks for the help, from puerto rico",1
+@MonaAhmednafea,"Hello,
+first and foremost I want to thank you for this tutorial 
+it's my first time dealing with git and those things and you make It clear to me
+I have a question 
+when cloning, I found an error that I couldn't solve as it didn't clone using the SSH key so I used the HTTP to clone but later on you make a SSH key to push on the repo 
+so, what is the difference between using ssh or HTTP like I've done?",1
+@nowshinpial3267,"Thank you so much, excellent video.",1
+@sihanzhang636,Very useful. Thanks a lot!,1
+@gwaliwamashaka8724,Amazing tutorial. Thanks,1
+@anantajamdhade5683,Very clear explanation,1
+@duynguyenhoang5073,"Super useful video, thanks!",1
+@NaftuliSinger,"That was amazing, thank you.",1
+@nelsonberm3910,Thank you so much I leARNED SO Much!,1
+@sp3ct3r71,thankz for this great tutorial series,1
+@mfawzi75,"Thank you very much, it was amazing explenation",1
+@KamranImranli,Excellent tutorial ,1
+@Kar98kMP40,u should have given the ssh key tutorial a little earlier in the video chapter section as its imp to connect the local machine to the github account,1
+@bigmikedev,I ended up having to go to stackoverflow to get assistance with the ssh-add part,1
+@andy1z,It was best tutorial thank you so much!,1
+@oscarhenry7412,"I really enjoyed the video, very informative",1
+@studymasterguide,"Great tutorial. Quick question though, after deleting the branch (feature readme instructions) locally, we didn't commit or push to GitHub, so is the branch automatically deleted?? Thanks",1
+@Skywalker7045,very nice thanks i now work in ibm,1
+@dakperera4444,"feel kinda dumb to ask this one, but I actually got lost around 26:40, when she moved demo-repo2 out of the demo-repo file structure.  It's not obvious to me how she did that, and I can't just drag it out, I tried.  I'm using a mac.  Help would be appreciated, thanks.",1
+@guillermopereyralucero,"Thank you, very good video! ",1
+@LeighRobinsonBushcraft,21.19 I try to generate the key and get zsh: permission denied. Any help would be appreciated please. Figured it out. You've left Visual Studio Code and gone to your Mac terminal to generate the key. 25.22 It's like you've given up and gone 'read the docs. Here's the link'. I'm stuck here as well and can't get past it. Please do an update of this tutorial.,1
+@andreslemuscaballero9885,great tutorial. Thank you!,1
+@ro_hax,very awesome. thanks for the content!,1
+@nelsonberm3910,Thank you so much for allthe knowledge,1
+@veehope2702,I think for some people it would just be easier to pick this information up from the github website itself.,1
+@MrRisn,OMG this tutorial was amazing!  and exactly what i needed! I watched many about the subject but this one is pure gold!! much love and thank you for your effort! subbed <3,1
+@theamithsingh,best git tutorial ever!,1
+@Tek_D-tt2bu,I learned a lot from this video,1
+@oriashkenazi4306,"amazing thank you, very practical .",1
+@georgiana1788,Very useful! Thank you! ,1
+@-v-6587,Thanks it was very helpful ,1
+@currenttrendtv8920,Should a key be generated when you are working in https? or you just do your push directly?,1
+@raghavbhardwaj3192,"Great tutorial, Gwen!",1
+@kia808,Thank you so much gwen ,1
+@andrerodon3921,Thank you for this video!,1
+@guilhermecampos8313,I need an advice about account creation. What do you guys recommend? Should I use a personal email for Github or I should create a professional email for it?,1
+@TheFirebolt2010,Absolutely loved it!,1
+@avciua8082,Is 12 pm while I am watching this video and the bright theme just bilded me,1
+@olivierc.8364,"@15:04, you clone with SSH while the section on SSH is later in your tutorial. Why?",1
+@RHSGH,Thanks a lot for sharing your knowledge.,1
+@TimeTraveler1900,Awesome video! Thank you,1
+@jojomailafiya1487,"Hey, I still don't understand Git branching buh imma just watch again and see",1
+@mishalinhart1872,Thanks!,1
+@mohsenpasdar8159,"The video was great, but there were too many ads. I wish there were fewer ads—it was quite distracting!",1
+@raman2954,"Another query is on branching.
+When we want to switch between branches we use ""git checkout"" command. 
+Let us say we are on a feature branch. To move to Master branch, we use ""git checkout"" command. 
+But, checkout has a different meaning.
+What has the word ""checkout"" got to do with switching please?",1
+@yakubujulia9096,"Am stuck at 24:17
+That part isn't working for me cause am using windows
+please I need help",1
+@etelkin,Great explanation!,1
+@shawnxihaowu,Thank you for this video!,1
+@DenizTurkben,"That's great video, thanks!",1
+@empitrix,Learned lots of things!,1
+@mirogeorgiev7095,"Not bad, congratulations and thank you.",1
+@abhirajbhatta1967,"great video, helped a lot",1
+@RashidAli-ko8ul,thank you thats is very helpful for me,1
+@hddh5917,Learning how to save your code is more complex than coding itself.,1
+@christopherwashington9448,"Great tutorial! But I still have a question and couldn't figure out.
+""git push -u origin branch_name""
+The branch_name here is the current local branch or the remote branch?
+People give different answers about it!
+Thanks!",1
+@AyushKumar-kz7or,excellent session...!!!,1
+@prabhdeep155,"The lady has beautiful aura and excellent clear voice , which is easily understandable.",1
+@andyjones593,"Hi Gwen @FaradayAcademy
+Thank you very much for this Git for beginners - Crash Course!
+I have an issue and created an SSH key with an incorrect email address! What can I do to correct this?
+I tried a Stackoverflow solutions for editing and removing the key, but they both threw up errors!
+Can you please help?
+Many thanks ",1
+@Sjjeien,"Moral of the story :
+
+Dont watch this tutorial unless you have mac or linux os",1
+@FazalWadood-nr4lp,how do we list everything including hidden on windows in 16:37,1
+@hemanthbysani592,Thanks a lot for the amazing video,1
+@talaqalotaibi,الي فهمته اذا بحساب تفقد المحتوى ولذا بدون حساب يستهدف المحتوى لو انك فوق سطح القمر ,1
+@daglok3196,"omg its so great, you are great teacher",1
+@michaelwilkinson8531,Really loved it thanks,1
+@bhavatarini5995,That was a great tutorial.,1
+@dbhat3339,Why cant all courses be so clear and good?,1
+@NgmNipsey,Thanks for the great work,1
+@yuerongzhi,"We do git push request instead for pushing my branch's change to master branch, not git pull request",1
+@SagarSingh-ie8tx,Very Nicely Explained ;),1
+@umarumarabubakar2100,it was really helpful thank you,1
+@asmitasharma9866,This was a great course,1
+@sanchitrahate,"25:00 it's asking me a ""authenticator pin"" after i enter ssh-add -K ~/.ssh/keygen command
+What should i enter??",1
+@TheAIFramework,How do you get the terminal to look like that? Is it a VSCode extension or some sort of external installation... I really want it :),1
+@yulduzyuldasheva7462,Thanks it was helpful!,1
+@DebugDiariess,Is this video enough to learn all there is to know about git and github,1
+@davidbrown4868,Very nice explanation. Thank you.,1
+@deeper_learning,Thanks for the great video.,1
+@rptechplex,Awesome! Thank you.,1
+@MortezaHajizadeh-o3k,"In 2025 , Its steel the best video for begginers!",1
+@madrukus5833,super detailed thanks,1
+@haydenlloyd2415,Thank you Gwen!,1
+@dinushachathuranga7657,Thanks a lot for amazing video,1
+@hbsvidu,"Thanks 
+This is very useful",1
+@ThatWeirdThing21,"excelent video, thanks",1
+@farrukhfida212,Thanks.. i learn a lot,1
+@karim8030,excellent explanations,1
+@sathwikcm7,"i did not understand the part SSH part , where does she types all that ?? terminal ?? GITBASH?? where i am not able to get it !! someone please help me",1
+@MultiPauleee,"question: on 25:20 when adding your ssh private key to the ssh-agent.. it asks me for a authentification PIN..? what pin is that.
+thank you very much for your help guys",1
+@moufdibafdel3534,thank you great job great job  ,1
+@euphrates9083,you are a great person mam,1
+@HAMMADMUSTAFA-x3d,Thanks for this!,1
+@kashyabmaharjan,Thank you for the video.,1
+@fishertech,"20:32 to 20:36, can someone explain what happened? Do I type the SSH key related stuff in the terminal in the local repo? The sudden screen change has me thrown off. 
+Now if that is the case (I tried in the terminal and I was able to generate a key - how do I list the keys? ls | grep keyname does not work. I am on Windows. I tried ls -la | grep keyname too. Total beginner here",1
+@solangebrugnatelli,"Girl, you are awesome!",1
+@JacMarTim,Great tutorial!,1
+@pankajsehrawat1719,super duper beginner tutorial.,1
+@shane045,Great explanation,1
+@platanoutp9288,"That was a great explanation, thank you so much for this video ",1
+@mpack235,"As this is the first time i'm learning git, i feel sometimes confused about what you explain, and i'm not sure if it's because you don't explain it well, or is it just me expecting git to be perfect? in the end you still know more then i do so i'll compare your explanation to kevin or forest knight.
+i started watching these guys first then since i trust freecodecamp's organized style of explaining things(  because i learn from them), i started with your video first.
+
+when i watched kevin's git tutorial, i noticed for unstaging he used restore -staged not reset, also for branching he used git branch branch_new_name but you used checkout ...
+thanks , you slow speech helped stabilize first-impact ideas of git in my head. =)
+happy coding.",1
+@LANDANDEVENECIA,so helpful thank you!,1
+@EscapistCoder,at 20:58 what terminal she is using?,1
+@olinabin2004,"for personal purpose:)
+
+git branching --later
+undoing --later",1
+@xkr2,"Excellent video! 
+You touched upon many of the common use cases in an hour. Also loved how you talked about 2 specific workflows, one which is entirely on Git vs the other one via GitHub and which involves pull requests, the more typical case for some users. Really good:)",1
+@markfalk,Great tutorial!,1
+@farahnissa8018,thank you gwen! :),1
+@mmuja929,"thank you, great video",1
+@Codian-ug7gg,Thank you Gwen!,1
+@markndibui,Thank you for this.,1
+@paul-cl3el,what extension  that is used in the video that can show the detail information in the terminal ?,1
+@lucasduarte4859,23:42 ctrl + shift + c → copy from terminal,1
+@ЯИСЛАМ-ь3ж,very useful THANKS!,1
+@Mahdi_gh_sh,It was very usefull and great,1
+@437A07鄭芳雯,nice video! really helpful~~,1
+@fakhrikharrat,Thanks  EXCELLENT VIDEO,1
+@mecharenastuff,"Is there any way to customize my personal dashboard? I'm so. close to creating the perfect workflow, I just need to edit what shows up in the ""browse activity"" section!",1
+@sohamagarwal00,amazing tutorial!,1
+@kourosh234,"Is there a way to create push request for already committed and pushed work on github?
+I want to create a pull request for each of my previously committed work on main branch",1
+@MrMortonFizzback,"This was super helpful, thank youu",1
+@JavaArise,Am using intellij how do I go about it?. Since you are using visual studio for the tutorial.,1
+@WarisHussain-p3x,where did you created keys after doing a commit you showed how to create a key but didn't tell where what did you use did terminal for the push,1
+@Utube87madg,"thank you , you are a great  at teaching",1
+@vsivakrishna9647,you are doing god's work :),1
+@abdiqaniaden4976,I was stucked at creating SSH key. please add that to course next time,1
+@kasamadhu3509,"great teaching , thank you",1
+@ickletech2960,thanks learned a lot,1
+@doncorleon734,That’s was really helpful,1
+@hirenmistry007,Thanks. Very useful..,1
+@kubraisik6762,This tutorial has been published three years ago. Do you think this is still up to date and meet current needs?,1
+@juliuscesar4176,"Outstanding, a dumb old guy like me can follow, thanks",1
+@namanchhabra4136,Appreciable ,1
+@sagarjain9203,The groot behind made me smile,1
+@bobby770,Thank you so much ma'am,1
+@Manikandan-nn2bw,Loved it ,1
+@phanquochung3924,Great teacher,1
+@QaiserMuhammad,Simply Perfect,1
+@lordhuzi3316,hey great turorial BTW are u actually a descendent of Micahel Faraday or what is your relation to the Great MIcahel Faraday,1
+@mustaphamomo9315,Thank you so much !,1
+@mrpromisetv469,"I stop at 15.08. 
+After cloning 
+Git Demo didnot work, wot d solution. I need help",1
+@ayushsrivastava9364,"As the video is 3 years old, wanted to ask if this is still valid or are sections outdated due to any updates/revisions? Pinging @FaradayAcademy as well",1
+@moustafagebal5366,What is the name of the terminal you are using? I cant see branch names as I am working in windows power shell.,1
+@johndeboer8597,Very good course!,1
+@MarkRakitin,Hi! Good course!,1
+@Native7i,"Is this Crash Course due for a new revision or need updated Course?
+Thanks!",1
+@brioquery,Excellent video.,1
+@rakenduvadana2275,Thank you so much!,1
+@لوسيفرجبريل,that was good. thank you,1
+@dbetawebagency,Great work!,1
+@alibacyari,Thanks for this video,1
+@ndemazizou9866,Great tutorial,1
+@yoavmor9002,51:52 General Kenobi!,1
+@addadd8784,Thank you very much.,1
+@senecio6640,Ooh!! That's a lot of info,1
+@sayedbasha3902,nice explanation,1
+@joannetsai8124,Thank you so much!!,1
+@dustinhxc,Thank you! ,1
+@dgtlalchmst,"FWIW, 
+
+git add vs git commit
+----------------------------------
+- ""git add"" sends a modified file in your working repository to the staging area; files are NOT committed
+- ""git commit"" saves files from the staging area; takes a snapshot of your repository's current state, and creates a new revision with a log. each version has a unique identifier.
+
+commit vs push
+--------------------------
+- commit only saves files locally 
+- push sends committed (saved) files to a [specified] remote repository
+
+working directory --> staging area --> local repository --> remote repository
+--------------------------------------------------------------------------------------------------------------------------
+working directory files are sent to the staging area via ""git add"". 
+staging area files are added and saved to your local repository via ""git commit"".
+local repository files are added to a remote repository via ""git push"".
+
+the rabbit hole is deep. Happy new years!",1
+@Aldelirium,the whole Adding your SSH key to the ssh-agent thing did not work.,1
+@burakkurt5155,Thanks for video.,1
+@ZhannieOrlova,can you deploy different branches without merging them together?,1
+@amanthasandun,what is the extension that you use for vscode teminal,1
+@bestofkings9793,i tried to bring up the .git file with the code you gave it does'nt work,1
+@antudippolito1183,"really usefull, thanks",1
+@玩家1-k2t,"59:00
+watched, thx a lot",1
+@memohamed5046,Is this enough basics for both git and github? Is it still valid?,1
+@oliverfuchs8198,"Hello. I am using Linux Mint. How can I toggle the command prompt like you have? A Git repository is automatically detected and the branch is displayed in the prompt.
+Thanks
+Best regards
+Oliver Fuchs",1
+@cse10allenzopaul59,"For the 2024 viewers it is ""git push origin main"" as per the latest updates",1
+@abdulkadirbiffo8937,"1:01:19, ""git reset [hash] or git reset --hard [hash]"" is not working for me.",1
+@Typhoon860,I never see git master and git status doesn't work. I have clicked and typed everything exactly as you said.,1
+@godaimer999,40:00 merge branches,1
+@ZerubabelJember,"super special thank you so much:
+You helped me a lot and teach me all the concepts of git and GitHub just by holding my hand!!",1
+@crispytek6783,"whenever I make changes to the file they are highlighted as red or green but are never marked modified and hence the git status command does not detect it and just says that there are no changes that are unstaged... please help, I simply CANNOT find a solution to this anywhere on the internet",1
+@dingdongman5784,"After generating the key when I go to the add key part it says no such file or directory. Saw a couple comments saying I need to switch yo the .ssh folder on my device, but it simply doesnt exist for some reason?? Ive generated the keys in a couple different ways still cant seem to find the ssh folder on my device. any help will be greatly appreciated.",1
+@jamalyarfoor5798,"OK, great to know!",1
+@kiwioil0c697,"For anyone who got confused in the SSH key part
+
+https://www.youtube.com/watch?v=mNtQ55quG9M
+
+Use this to learn how to make a key
+from what ive learnt
+an SSH key is basically something you can use to like push something to ur repo safely with encryption n stuff",1
+@excelakachukwu2660,Can i use git with the http format rather than the ssh route?,1
+@aaryaaa933,"36:46 q to exit git branch
+37:00 git checkout",1
+@junaiid0104,THANK YOU MAM !!!!,1
+@bhavyashah3249,"wait she said we need ssh keys to push to github, but we were able to do it without ssh in the example before right? can someone please kindly explain :)",1
+@mukuliskul,Amazing video!!,1
+@mojtabanourani9988,Awsome! thanks,1
+@manarelnemsa,Thank you ,1
+@BomalDeSilva,Thank you !,1
+@sambat2193,Didn’t even realize GitHub had a light mode,1
+@arminmesic7273,"Update this video. So many things have changed. And make one for windows as well, we are not all using Mac OS. Couldn´t complete it",1
+@alhassanmohammed9337,"well tought, thanks.",1
+@ddw1518,"Hi all,
+does anyone knows why my terminal only shows the folder name only, the git:(master) doesn't show at all? And my terminal is only  white color, how do I get the extra features of terminal like Gwen Faraday ? Thank you.",1
+@HearsH96,"She didn’t explain the importance of directory matching for terminal, ssh authentication.
+I still haven’t solved my failed connection to GitHub servers to clone the repository",1
+@bugi6606,This is so good video.,1
+@vigneshramanathan6108,"I felt like a pictorial example for Push, pull and merge commands would have been more helpfull.",1
+@akinwalefemi8728, you make my year,1
+@sinner4453,Thanks a ton!!,1
+@zonyzipper7589,Great video!,1
+@spianny,Thanks!!,1
+@cool_doge_33,Thanks a lot!,1
+@mohamedsalimcharghy3195,Hey to everyone watching the Video nowadays you should know that they have changed the Name Master to main,1
+@mycollegeLife.,thankyou faraday,1
+@ftballhub,Nice video but you should probably have shown how to use it on other OS.,1
+@poojasuresh8474,"For Windows its ""ls"" right ..to check all the files on that directory?",1
+@heshamabuzaid4293,thank you so much.,1
+@himu1901,"After ""git push origin master"" command, I am getting this error in VS Code -
+
+ERROR: Repository not found.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+Help.",1
+@Gochi2000,under ssh keys.. how did you return the testkeys(pub and private)...it just magically appeared,1
+@Ricocase,Are ‘clone’ and ‘pull’ synonymous?,1
+@nayeemx11,"Mam, I have facing some problem on GitHub, can you please solve it.
+
+After pushing my flutter project, the language specification is showing the project is written in C++ mostly. But this project is written in Dart.",1
+@RabeeQasem,"how to make the terminal show the ""filename"" git:(branch) rather than the path",1
+@rolco6536,"I still don't understand about SSH Public and Private key, could you please explain it with simpler explanantion? :)",1
+@michaelday6987,"Just an FYI. In 2023, the origin branch is now Main, not master.",1
+@irokovictor5782,Thank you!!,1
+@crystalthedeveloper,Thank you! ,1
+@akinwunmiorioke5848,What is the difference between clone and pull command,1
+@jesse810,I'm Havering over this darn thing I can't get registered because I have ppl who feel the need to control everything and every one!,1
+@niramay17,"can anyone help me with the SSH key and then adding it, I'm on Windows and I'm lost",1
+@AlinaKlein953,that was just perfect,1
+@patrick-royce,excellent! ,1
+@miquelmauri5277,When I become a programmer I will make something so people do not have to study a college grade just to upload code,1
+@aliassaf8782,great intro,1
+@universal1755,very helpful.,1
+@raidoung4100,"1:07:00 just for my reference ;d gotta go back 15 seconds if something ,i dont think i slash well ;d kurf malo, nastepnego dnia musze wiecej zrobic hehehe",1
+@D4FChennel,"yes . she is great then great. Love it , thx . XRP to the moon",1
+@windsendless3051,That's awesome!,1
+@BethaAlpha,Thanks ,1
+@keler50213,great video!,1
+@loganbender1562,"A good tutorial but now outdated, as the git Hub UI and options have changed a bit in `22 ; you have to figure some stuff out.",1
+@ashwinkapile1638,Great Video !,1
+@havehalkow,So if I use Sublime text instead of visual studio than I can't use github,1
+@aadityamittal3588,Great video...,1
+@kanteez,Thank you.,1
+@SGTrainingStable,How do you upload an entire project folder to GitHub?,1
+@trenholmelodge1820,"All these great videos that are difficult to read because it is white on BLACK., unless this is something I can change but I have not been able to find a setting that will do this. Please change to black on white.",1
+@isscaibnzehra8717,Thank You!!!!,1
+@jeddforschool8102,"I was so lost at 17:27 when the ""M"" appears next to the README file name. Took me forever to realize you have to save the current file you're in for that to appear. Seems like an important thing to mention.",1
+@sonickiller,Done. Thanku,1
+@salahal_salahi3935,Thanks ,1
+@malpa3,It was really good,1
+@zoserquenaya3193,thanks a lot!,1
+@edu_stuff_code2201,"22:51 windows equivalent of cat is ""type""",1
+@sepehrnem9773,Thank you :),1
+@Black-xy4pj,thank you!,1
+@hemangseth3726,Which OS are you using ig it is not debian based?,1
+@MACDOLLARTV,"kindly help me out.
+got stack generating the ssh key. using windows",1
+@wwaqashussain,Thanks,1
+@TheShmrsh,i still really dont get why i have to use those commands if Visual code does this perfectly fine in UI,1
+@akkibhatt,great job,1
+@vovamiix,thank you !!!,1
+@apssaraganesh1514,What is the difference between command line interface and command line?,1
+@willmelvin1384,you go girl.,1
+@lydiamakena8836,Thankyou ,1
+@bele44,How come i have main with first repo-demo and with repo-demo2 i have master?,1
+@kiplimosimon1429,Amazing content,1
+@KnOtoUt,very helpful,1
+@frankhinrichsen5643,Is there a way to create the REPO from code?,1
+@tomasmatusek6292,"the autocomplete not working for ins, it work for me only for fea(then it autocomplete the word)",1
+@So_Much_WiNNiNG,"so ""fork"" is nothing more then choice of term/diction? its just as easy to call it ""clone"" if clone wasnt already used? your taking an entire set of code with branches and all and start playing with it yourself? then you want to say "" hey i made some useful changes "" and you do a pull request that the main branch owner would have to accept? would it then become a branch? feedback: you look great with longer hair..",1
+@jelena6997,"could you help me please visual studio encoder says that it doesnt recognize the ""git"" word when i want to pull the repo from github please if anyone has a solution i will be so grateful",1
+@lucksimi3320,"Hi
+
+How to copy the repo to python and run it? thanks",1
+@LuisVillafranca,"I'm not getting the same thing. When I write ""code clone"" I get a prompt that says ""bash: code: command not found"" Can anyone help please :)",1
+@sagardarade,Perfect ,1
+@wownnames,"hi - this is a great tutorial. thank you posting. a couple of comments:
+1. it would have been super helpful to show how to set up ssh earlier on. I struggled because I had never set up an SSH key in GitHub and the way the tutorial is laid out it is unclear how to set up SSH. I found my answer on stack overflow however.
+
+2. how do you get your terminal to be set up like that where it shows the branch? my terminal doesn't show anything to indicate I am in git or which branch I am in (not in VS code and not in terminal either). 
+
+thanks again!",1
+@mrmotomoto,Wonderful!,1
+@TrueWolfY,"51:51
+General Kenobi",1
+@TheViralGeek,"if i had made a webpage using html and css.
+NOW HOW TO MENTION THIS PROJECT on resume?????
+is there any way????",1
+@Smithandwess,"My vscode terminal doesn't display the current branch like Gwen's does. I'm on mac also, anyone found the solution to this ?",1
+@superbin6021,what a sweet voice,1
+@dng7470,Thank you!,1
+@kofiboateng2153,Good job,1
+@asaadfayyaz,Thank you,1
+@StepanIzvolskii,Thank you,1
+@ellepress,Thank you,1
+@Alain9-1,Thank you,1
+@RulesofNature_Maths,Thank you,1
+@rahulsaichintala6660,Thank you,1
+@hereliesadvaith,Thank you,1
+@kguruprasad2121,Thank you,1
+@marvelouschinedozie1373,Perfect ,1
+@notlight4968,THANK YOU,1
+@rajatthakur7312,"Why do you keep clearing the screen every second? otherwise it is a very good video, thank you",1
+@ARShortVideo,how are in git setup in install to termux i all command very information in termux to git setup,1
+@kyoungkang552,awesome video.,1
+@ankushmaity2635,"git cd demo is not working it shows me --
+'cd' is not a git command. See 'git --help'",1
+@astrodeeptej,ssh key part for windows?,1
+@runefimland6208,"Hi
+You use pbcopy command. That is exclusively for mac. Linux do not have that command.",1
+@tomduke558,i like your voice indeed,1
+@anakdosq2406,Thanks sir,1
+@Ed-ip2sg,This was a good tutorial but it’s getting a little out of date.  Still able to figure things out.,1
+@sebesh717,very helpfull,1
+@berhanuworkie4744,Woow !!! Amazing!!!,1
+@chrisk19791,How... tf... did she move that demo-repo2 folder outside of the demo-repo folder after creating it inside it???,1
+@josephaggrey9972,Nice one,1
+@vikihamburgrová,in what do you run the ssh code,1
+@OpeLeke,"with due respect, this tutorial went awry right around the 15 min mark. All the best",1
+@nasima595,Yousaf Kamal ️️️️️,1
+@aubCodes,thank you,1
+@ilya_123__,thank you,1
+@payek6221,thank you,1
+@ahmedaminebenelmalih2353,"there was an update in github..
+i hope nothing big was charged",1
+@infintylyf2868,how to add another folder in existing repository.,1
+@WhiteSiroi,thank you,1
+@krithikrajavelu6096,"Clone with SSH didnt work for me, I think I need to setup the keys , I cloned with https",1
+@MrSom6,"Hi, can I have your Transkription as a pdf please?",1
+@braxion-xyz,amazing video,1
+@ThatGuy68580,git diff does not work for me only when I enter the name of another branch does it work,1
+@ripplesr5655,30.50 is where you wanna put on you Men in black shades before it hits 30.52. You're welcome.,1
+-,LMUR 1,1
+@masoodhosseinifard4178,Perfect!,1
+@arunkrishnan4237,Thanks :).,1
+@getabegaz,Thanks,1
+@acestandard6315,Thanks,1
+@ratral,Thanks,1
+@arek9430,Thanks,1
+@aneclip7117,day -2 git branching 75%   hahahahah done   this vedio,1
+@koyenadutta5747,I did not understand the SSH key portion,1
+@RajuLama-de1cf,very good,1
+@shaiksameercse,"Howard will be like - ""Well Hello! cutie pie""",1
+@teeI0ck,good stuff,1
+@whiskysix9606,ls | grep (name of key) does not work?,1
+@komaljha6246,Where to go for ssh key,1
+@tuck295q,like you are not going to tell how to autocomplete in windows?,1
+@antoniopedrorodrigues2377,"just keeping track of the time by bois
+day 1 17:23",1
+@joemasu,This is lit!!!,1
+@YSL-j1t,precise,1
+@BlackHawkDown2,"25:44 git push origin main 
+
+(not master) ",1
+@childintime6453,Does anybody know what vs code theme is she using?,1
+@joemato,"Mararmi ring confidential fund ang HAMAS na ginamit nila sa personal gain nila at hindi para sa mga palestino. Parang similar dito sa Pilipinas yarn, di ba Sara?",1
+@premanshrestha4219,Thank u,1
+@timetoskillup,awesome !!!,1
+@MrChris64251,Amazing,1
+@comedywala2102,Oh so ur grandfather write a Faraday 1st law,1
+@SaimonIslam-f5t,Nice video,1
+@TEKEKOLAWOLE,i could not link my repo to the terminal u guys should update you video!!!!!!!!!!!,1
+@alessandroagozzino5827,Praticamenti chista 'nsigna prima a mettiti i scarpi e poi i canzetti.,1
+@fraudude3841,hey!! i cant connect ssh key and ssh agent in windows can anyone help me,1
+@bernym4047,'la' works for linux also.,1
+@turtle421,"Hi, Randy Orton....",1
+@codevanie-misery,Great!!!!,1
+@diegogutierrez3384,Nice video,1
+@loucheabdji7755,Perfect,1
+@amosmwangi2707,(15.28) i was unable to change directory,1
+@uberfu,LINUX-MACOS > I cannot speak for Linux ... BUT MACOS DOES NOT come with Git preinstalled !! If a user has installed XCode for development purposes - THAT (XCode) will install Git during that installation process. Otherwise the user does in fact need to install Git on MACOS first before using it.,1
+@MohaenAb.n,wonderfull,1
+@Archanadgupta9,awesome,1
+@istiakjisun9233,why ls -la isnt working?,1
+@rajugoud6465,Awesome,1
+@e.jrtonio2933,Nice,1
+@MichaelFlynn0,that was good,1
+@akhileshgoel339,great,1
+@BhavanaValluru,Can you share the ppt ?,1
+@ramnareshjharamya,Great #AIGURUJE,1
+@Mamdouh-s4c,"Instead of ""git push origin master"".... use ""git push origin main"" as starting Oct. 2020, any new repository is created with the default branch main, not master.",1
+@HousseinDroubi-o9i,Hey. Good,1
+@GIRISUBRAHMANYA,thnq,1
+@MohamedAli-vp6lf,AWESOME,1
+@DrMerge,AWESOME,1
+@donreji,can someone tell me how to get autocompletion,1
+@Pain6944_,43:25 Pull Request,1
+@shineLouisShine,"I wish the SSH would actually work :(
+
+Thanks anyway",1
+@RM-xr8lq,"the end to programV1.java, programV2.java, programFINAL.java, programACTUALFINAL.java",1
+@djohnworthy1040,git cd .... not working for me.,1
+@АнастасіяПлюхіна,cool video),1
+@soothingsounds-ii7bv,nice,1
+@masterohsxls,excellent x10000,1
+@basurabasura,tyty!!!,1
+@inochifumetsu,Why is it you have to change playback speed to 1.25x to get her to talk like a human being...,1
+@kapilsingh-xp9md,increase playback speed to 1.25,1
+@parazeni,anyway love u,1
+@johndee2990, @evanwest4751 is acts like a massive Baguette,1
+@aneclip7117,day -1 26:00,1
+@ВасилийЧижов-э6ю,cool video),1
+@subhamprasad1172,Getting problem with ssh keys in windows can someone help,1
+@Adventures_English,"If using Git Bash on Windows switch  ""~ cat"" with ""cat ~""    This took me a while to figure out...",1
+@tatakaetatakae3358,1.25x feels like the normal speed.,1
+@peterkimulisa5087,la  -ls didn't work on windows.ls did,1
+@asmae1237,tysm<3,1
+@gloriabartomeus458,Note to self: vist,1
+@apprananpil,day1: 28:00,1
+@aftershanman5928,is it me or her rep does not work,1
+@Arnius_Music,"Am I the only one being crashed under the whole ssh key thing and permissions? Why is it so complicated. Bro it's me. ""PERMISSION DENIED""!!!",1
+@slapmyfunkybass,"Useful, but branching was far too detailed and advanced, should have just been a quick introduction into it. This topic went on for far too long.",1
+@AmosNgeno-vc6go,How can I download gif?,1
+@zitafanzy,"Watch this in 1.5 speed 
+Thank me later",1
+@jef4300,-,1
+@shivambhardwaj6809,done,1
+@joelpetersony2002,20:33,1
+@tubex1300,you didnt show of add ssh key on minute 14:55,1
+@dddddeeeevvvvvv,"everything was fine until ""undoing git"" chapter",1
+@jasdancer20,had to listen at at least 1.5 speed,1
+@kunnu_4,0:33 / 1:08:29,1
+@yusufavsar6328,27:18,1
+@joshua6765,"14:59
+24:37",1
+@chuchu29k3,33:00,1
+@Spark_T_ai,33:00,1
+@chacha-dh1gj,27:00,1
+@mahipalmahato7648,6:49,1
+@doublebeefstew,59:42,1
+@salahuddinbangash4785,I am groot !,1
+@srirajjayaprakash,21:27,1
+@ngabohakiza3988,Dig the haricut,1
+@sunshine-by2kl,20:39,1
+@malleckmelon2086,6:00,1
+@FirstLast-ws7zw,36:00,1
+@sameergarg8164,35:00,1
+@FanWrenEvans20nam,15:27,1
+@jiren8991,47:40,1
+@natancent1,29:56,1
+@piyush_kumarkhg10,30:21,1
+@jessgeorgesaji6263,25:25,1
+@EmeraldAerith,Earthbound.,1
+@shashwatsingh276,25:25,1
+@rfiiostd,32:39,1
+@sasuke3737,dont waste time guys,1
+@글로벌바이오메디-q6s,"2024.8.3 1회차
+30:36",1
+@Nim2,32:35,1
+@skins3738,give me a dummy version please,1
+@mahedul,32:42,1
+@originaldouayrheims,Nice! With time you'll finally become Catholic.,1
+@narutorahat4769,44:31,1
+@dimitris2691982,why git push origin master ... ???? git push https... and all good!!!,1
+@Joons_girl,15.44,1
+@tanweerchiktay,Hi,1
+@ahmadserhal5939,audio so mute,1
+@perseusz1691,Me afer knowing how to fork some one's else code ,1
+@guffgaffs7427,20:10,1
+@JaySsavge,NGL she pretty af,1
+@collectorX,tanQ,1
+@026maheshkumars7,not giving all necessary information Some little channels are always superior to such vedio.,1
+@accountforeveryone-p4b,"drbha 
+Ah la",1
+@Steph.uwu.123,Most of this is very outdated and not correct anymore,1
+@v0id_d3m0n,55:18 gay flag. nice.,1
+@thechoosen4240,"Good job bro, JESUS IS COMING BACK VERY SOON;WATCH AND PREPARE",1
+@inushapeiris,:),1
+@thestreamer1481,"too fast and not will explained , not really beginner friendly
+i found this more clear : /watch?v=ulQA5tjJark",1
+@KrishGujariya,test comment1,1
+@g-jalil6961,Messy((,1
+@YoYo-ls6pp,11,1
+@ilyaerr5681,"to be honest a very poor tutorial , got the views only thanks to the channel",1
+@spowrei,i think the course could be simpler,1
+@xyzpg,i have never seen such a horrible  teacher in my whole life,1
+@jacobmiller-y7i,can you speak just faster ? Jesus,1
